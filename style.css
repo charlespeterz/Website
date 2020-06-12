@@ -1,0 +1,24 @@
+body {
+  background-color: Salmon;
+  color: Red;
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+h1 {
+  color:= blue;
+}
+
+header {
+  background-color: Brown;
+  color: White;
+}
+
+section {
+  background-color: Purple;
+  color: White;
+}
+
+footer {
+  background-color: Black;
+  color: White;
+}
