@@ -71,7 +71,7 @@ header, footer, section {
 
 img {
   /* width: 400px; */
-  height: 300px;
+  /* height: 300px; */
   width: 100%;
 }
 
@@ -101,4 +101,8 @@ box-shadow: 0px 5px 16px 0px rgba(0,0,0,0.75);
 header .media-icon {
   color: white;
   font-size: 24px;
+}
+
+.About-images {
+  margin-top: 20px
 }
