@@ -24,9 +24,6 @@ p {
   margin-left: 0;
 }
 
-.title {
-  color: blue;
-}
 
 h1 {
   color: red;
@@ -34,31 +31,32 @@ h1 {
 .title {
   font-size: 48px;
   text-decoration: underline;
+  color: white;
 }
 
 h1 {
-  color: SteelBlue;
+  color: White;
   font-size: 36px;
 }
 h2 {
   font-size: 24px;
 }
 h3 {
-  font-size: 18px;
+  font-size: 24px;
 }
 h1, h2, h3 {
   margin-bottom: 20px;
 }
 header {
-  background-color: Brown;
+  background-color: DimGray;
   color: White;
   border-bottom: 5px solid grey;
 }
 
 section {
-  background-color: Purple;
-  color: White;
-  border: 1px dashed red;
+  background-color: DimGray;
+  color: white;
+  border: 1px solid black;
   margin: 30px;
   padding: 30px;
 }
@@ -78,7 +76,7 @@ img {
 }
 
 .block {
-  border-bottom: 5px solid green;
+  border-bottom: 5px solid LightSlateGray;
 }
 /* This code is shadow */
 .shadow {
@@ -94,7 +92,7 @@ box-shadow: 0px 5px 16px 0px rgba(0,0,0,0.75);
 
 .banner {
   height: 350px;
-  background-image: url(images/forest.jpg);
+  background-image: url(images/onWayhome.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -102,5 +100,5 @@ box-shadow: 0px 5px 16px 0px rgba(0,0,0,0.75);
 
 header .media-icon {
   color: white;
-  font-size: 24px; 
+  font-size: 24px;
 }
